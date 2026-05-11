@@ -1,6 +1,6 @@
 # Programación Estructurada
 - - - - - - - - - - - - - - - - - - - - - - 
-[!TIP]
+>[!TIP]
 Diana Villaseñor
 
 
