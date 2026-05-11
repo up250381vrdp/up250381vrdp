@@ -1,6 +1,6 @@
 # Programación Estructurada
 - - - - - - - - - - - - - - - - - - - - - - 
-[!ESTUDIANTE]
+>[!ESTUDIANTE]
 > Diana Villaseñor
 
 
