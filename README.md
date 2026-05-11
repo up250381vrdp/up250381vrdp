@@ -1,8 +1,7 @@
 # Programación Estructurada
 - - - - - - - - - - - - - - - - - - - - - - 
->[!ESTUDIANTE]
-Diana Villaseñor
-TII02C
+[!ESTUDIANTE]
+> Diana Villaseñor
 
 
 
