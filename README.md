@@ -4,6 +4,9 @@
 > 
 > Diana Villaseñor
 
+- [ ] Tiene Hambre
+- [ ] Tiene Sueño
+- [x] Tiene todas las anteriores
 
 
 <!--
