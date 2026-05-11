@@ -1,10 +1,17 @@
 # Programación Estructurada
+
 - - - - - - - - - - - - - - - - - - - - - - 
+
 > [!TIP]
 > 
 > Diana Villaseñor
+> 
+- - - - - - - - - - - - - - - - - - - - - -
 
+##¿Que Tiene?
 - [ ] Tiene Hambre
+- [ ] Tiene Calor
+- [ ] Le Duele la cabeza
 - [ ] Tiene Sueño
 - [x] Tiene todas las anteriores
 
