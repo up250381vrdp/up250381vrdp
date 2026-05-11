@@ -6,9 +6,12 @@
 > 
 > Diana Villaseñor
 > 
+> TII02C
+>
+> Estudiante de la UPA
 - - - - - - - - - - - - - - - - - - - - - -
 
-##¿Que Tiene?
+## ¿Que Tiene?
 - [ ] Tiene Hambre
 - [ ] Tiene Calor
 - [ ] Le Duele la cabeza
